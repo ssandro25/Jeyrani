@@ -16,7 +16,14 @@
     align-items: center;
 }
 
-h1 {
+h1, h2 {
     font-family: "ALKDots", sans-serif;
     font-weight: bold;
+    line-height: 1.4;
+}
+
+@media screen and (max-width: 992px){
+    img {
+        width: 80px !important;
+    }
 }

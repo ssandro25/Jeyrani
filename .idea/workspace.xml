@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e767fc5e-4b02-4242-823f-63464142887b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/images/icon-paper.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon-rock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon-scissors.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FM-CUT-APP[LADOS VERSION]/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../FM-CUT-APP[LADOS VERSION]/.idea/FM-CUT-APP[LADOS VERSION].iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../FM-CUT-APP[LADOS VERSION]/.idea/modules.xml" beforeDir="false" />
@@ -524,6 +528,7 @@
       <change beforePath="$PROJECT_DIR$/../JEYRANI-GAME/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../JEYRANI-GAME/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../JEYRANI-GAME/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
     </list>
@@ -531,6 +536,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -540,19 +552,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -564,7 +577,7 @@
       <workItem from="1676928328512" duration="251000" />
       <workItem from="1676929123064" duration="8000" />
       <workItem from="1676929149292" duration="968000" />
-      <workItem from="1676974360310" duration="7687000" />
+      <workItem from="1676974360310" duration="15195000" />
     </task>
     <servers />
   </component>

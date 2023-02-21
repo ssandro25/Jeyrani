@@ -1,19 +1,9 @@
 @import url("//cdn.web-fonts.ge/fonts/alkdots/css/alkdots.min.css");
-* {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
 
-.chosen {
-    transform: scale(1.4);
-    transition: .3s;
-}
 
-.col {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+main {
+    background-color: #19223f;
+    min-height: 100vh;
 }
 
 h1, h2 {
@@ -21,9 +11,64 @@ h1, h2 {
     font-weight: bold;
     line-height: 1.4;
 }
+.result--title {
+    border: 1px solid #fff;
+    padding: 16px;
+    border-radius: 10px;
+    margin-bottom: 48px;
+}
+.user--combinations {
+    margin-bottom: 48px;
+}
+.col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.combination {
+    border: 10px solid;
+    background-color: aliceblue;
+    border-radius: 50%;
+    padding: 16px;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.stone {
+    border-color: #4059f1;
+}
+.scissors {
+    border-color: #e89211;
+}
+.paper {
+    border-color: #d72746;
+}
 
+.fa-solid {
+    font-size: 30px;
+}
+.fa-hand-back-fist {
+    transform: rotate(90deg);
+}
+.chosen {
+    transform: scale(1.4);
+    /*transition: .3s;*/
+    -webkit-animation-name: blinker;
+    -webkit-animation-duration: 0.5s;
+    -webkit-animation-iteration-count:infinite;
+    -webkit-animation-timing-function:ease-in-out;
+    -webkit-animation-direction: alternate;
+}
+@-webkit-keyframes blinker {
+    from {opacity: 1.0;}
+    to {opacity: 0.0;}
+}
 @media screen and (max-width: 992px){
-    img {
-        width: 80px !important;
+    .combination {
+        width: 88px;
+        height: 88px;
     }
+
 }

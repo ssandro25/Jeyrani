@@ -524,9 +524,10 @@
       <change beforePath="$PROJECT_DIR$/../JEYRANI-GAME/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../JEYRANI-GAME/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../JEYRANI-GAME/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/JEYRANI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JEYRANI.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -580,7 +581,7 @@
       <workItem from="1676974360310" duration="23431000" />
       <workItem from="1677608916634" duration="609000" />
       <workItem from="1679912551254" duration="597000" />
-      <workItem from="1684704707710" duration="365000" />
+      <workItem from="1684704707710" duration="1356000" />
     </task>
     <servers />
   </component>

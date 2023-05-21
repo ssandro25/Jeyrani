@@ -524,10 +524,9 @@
       <change beforePath="$PROJECT_DIR$/../JEYRANI-GAME/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../JEYRANI-GAME/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../JEYRANI-GAME/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JEYRANI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JEYRANI.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -540,6 +539,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -554,6 +556,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -574,7 +577,10 @@
       <workItem from="1676928328512" duration="251000" />
       <workItem from="1676929123064" duration="8000" />
       <workItem from="1676929149292" duration="968000" />
-      <workItem from="1676974360310" duration="21388000" />
+      <workItem from="1676974360310" duration="23431000" />
+      <workItem from="1677608916634" duration="609000" />
+      <workItem from="1679912551254" duration="597000" />
+      <workItem from="1684704707710" duration="365000" />
     </task>
     <servers />
   </component>

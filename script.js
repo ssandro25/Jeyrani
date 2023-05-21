@@ -27,11 +27,11 @@ const lose = `<span class="text-danger">სამწუხაროდ წაა
 
 const draw = `<span class="text-secondary">ფრე...</span>`
 
-const choseStone = ' სისტემამ აირჩია ქვა' + `<i class="fa-solid fa-hand-back-fist ms-2 text-white"></i>`
+const choseStone = `სისტემამ აირჩია ქვა <i class="fa-solid fa-hand-back-fist ms-2 text-white"></i>`
 
-const choseScissors = ' სისტემამ აირჩია მაკრატელი' + `<i class="fa-solid fa-hand-scissors ms-2 text-white"></i>`
+const choseScissors = `სისტემამ აირჩია მაკრატელი <i class="fa-solid fa-hand-scissors ms-2 text-white"></i>`
 
-const chosePaper = ' სისტემამ აირჩია ქაღალდი' + `<i class="fa-solid fa-hand ms-2 text-white"></i>`
+const chosePaper = `სისტემამ აირჩია ქაღალდი <i class="fa-solid fa-hand ms-2 text-white"></i>`
 
 function userChoose(clicked_id) {
     let randomIndex = Math.floor(Math.random() * system.length);
